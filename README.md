@@ -13,7 +13,7 @@
 - 🔭 I’m currently working on "developing a ranking problem library aimed at the research community interested in sensitivity, 
 fairness, accountability, and transparency in ranking algorithms." (elevator pitch borrowed from advisor)
 - 🌱 I’m currently learning Golang, Rust, and more Python.
-- 📫 How to reach me on my Linkedin below or email on the side!
+- 📫 Reach me on my Linkedin below or email on the side!
 
 
 ## Profiles
