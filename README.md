@@ -1,7 +1,6 @@
-# Brandon Tat (He/Him)
-
 ## Who am I?
 
+- 😄 Pronouns: He/him/his
 - 🏫 Currently a TA for several CS classes! 
 - 🏫 Computer Science B.S. @ Cal Poly San Luis Obispo (Graduation Date: June 2022)
 - 📔 Central Coast Data Science Fellow
