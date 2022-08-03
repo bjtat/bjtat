@@ -1,3 +1,6 @@
+## Who am I?
+
+- 😄 Pronouns: He/him/his
 - 💻 SWE @ VMware
 - 🏫 TA'd for several CS classes! 
 - 🏫 Computer Science B.S. @ Cal Poly San Luis Obispo
