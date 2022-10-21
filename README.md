@@ -9,7 +9,7 @@
 - 💻 Former intern @ VMware & SecureDocs
 
 ## What am I working on?
-- 🔭 I’m currently working on [Greenplum](https://greenplum.org/) at VMware 
+- 🔭 I’m currently working on [Greenplum](https://tanzu.vmware.com/greenplum) at VMware 
 - 🌱 Gopher in training
 - 📫 Reach me on my Linkedin below or email on the side!
 
