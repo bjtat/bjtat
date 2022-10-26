@@ -9,11 +9,11 @@
 - 📫 Reach me on my Linkedin below or email on the side!
 
 ## Prior experiences
-- 🏫 TA'd for several CS classes! 
+- 💻 Former intern @ VMware & SecureDocs
 - 🏫 Computer Science B.S. @ Cal Poly San Luis Obispo
+- 🏫 TA'd for several CS classes! 
 - 📔 CCDS Fellow in 2021-2022
 - ☕ Former Member of MAVAC & IGARDS Research Group @ Cal Poly
-- 💻 Former intern @ VMware & SecureDocs
 
 ## Profiles
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/bjtat/)
