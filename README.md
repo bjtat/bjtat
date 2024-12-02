@@ -1,6 +1,6 @@
 ## Who am I?
 - 😄 Pronouns: He/him/his
-- 💻 SWE @ VMware
+- 💻 SWE @ Appfolio
 - 🏫 Computer Science B.S. @ Cal Poly San Luis Obispo
 
 ## What am I working on?
