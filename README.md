@@ -1,6 +1,6 @@
 ## Who am I?
 - 😄 Pronouns: He/him/his
-- 💻 SWE @ Appfolio
+- 💻 SWE @ somewhere
 - 🏫 Computer Science B.S. @ Cal Poly San Luis Obispo
 
 ## Profiles
